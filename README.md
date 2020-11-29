@@ -1,3 +1,5 @@
+Gatsby's Silly Site Challenge: https://www.gatsbyjs.com/silly-site-challenge/?utm_campaign=Events&utm_medium=email&_hsmi=99845242&_hsenc=p2ANqtz-_NQUP98PWIBseA8HImjxf8IYWCHrg_8ROrorDiMziaZSI45t9FF57rOBbGegyQRLcN_PxInWMwHTNqrP6QOxIVhd3x3A&utm_content=99845242&utm_source=hs_automation
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
