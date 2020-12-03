@@ -1,32 +1,38 @@
 {
-    "name": "gatsby-silly-site",
-    "private": false,
-    "description": "A simplified bare-bones starter for Gatsby",
-    "version": "0.1.0",
-    "license": "0BSD",
-    "scripts": {
-        "build": "gatsby build",
-        "develop": "gatsby develop",
-        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
-        "start": "npm run develop",
-        "serve": "gatsby serve",
-        "clean": "gatsby clean",
-        "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-    },
-    "dependencies": {
-        "@loadable/component": "^5.14.1",
-        "gatsby": "^2.27.5",
-        "react": "^16.14.0",
-        "react-dom": "^16.14.0"
-    },
-    "devDependencies": {
-        "prettier": "2.1.2"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
-    },
-    "bugs": {
-        "url": "https://github.com/gatsbyjs/gatsby/issues"
-    }
+  "name": "gatsby-silly-site",
+  "private": false,
+  "description": "A simplified bare-bones starter for Gatsby",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@loadable/component": "^5.14.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "gatsby": "^2.27.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatsbyjs/gatsby-starter-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "homepage": "https://github.com/gatsbyjs/gatsby-starter-hello-world#readme",
+  "main": "gatsby-config.js",
+  "keywords": [],
+  "author": ""
 }
